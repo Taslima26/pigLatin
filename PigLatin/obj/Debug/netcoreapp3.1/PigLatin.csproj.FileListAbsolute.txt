@@ -1,0 +1,12 @@
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/bin/Debug/netcoreapp3.1/PigLatin.deps.json
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/bin/Debug/netcoreapp3.1/PigLatin.runtimeconfig.json
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/bin/Debug/netcoreapp3.1/PigLatin.runtimeconfig.dev.json
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/bin/Debug/netcoreapp3.1/PigLatin.dll
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/bin/Debug/netcoreapp3.1/PigLatin.pdb
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.csprojAssemblyReference.cache
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.AssemblyInfoInputs.cache
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.AssemblyInfo.cs
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.csproj.CoreCompileInputs.cache
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.dll
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.pdb
+/Users/bangl1/Documents/Tech-Returners/PigLatin/PigLatin/obj/Debug/netcoreapp3.1/PigLatin.genruntimeconfig.cache
